@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DyeAndDurham", "DyeAndDurham\DyeAndDurham.csproj", "{05E38B59-8727-45EA-9B4A-226945F8C03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsProject", "TestsProject\TestsProject.csproj", "{514E6377-0AF1-4379-BA9E-1AB478E5626B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E38B59-8727-45EA-9B4A-226945F8C03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E38B59-8727-45EA-9B4A-226945F8C03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E38B59-8727-45EA-9B4A-226945F8C03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E38B59-8727-45EA-9B4A-226945F8C03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514E6377-0AF1-4379-BA9E-1AB478E5626B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514E6377-0AF1-4379-BA9E-1AB478E5626B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514E6377-0AF1-4379-BA9E-1AB478E5626B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514E6377-0AF1-4379-BA9E-1AB478E5626B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AAB3E23-DA3A-4B36-9374-DEFFF62FF95D}
+	EndGlobalSection
+EndGlobal
